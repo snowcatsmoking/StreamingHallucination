@@ -50,7 +50,7 @@ snapshot_download(repo_id="JlinZ/CHAINED", repo_type="dataset", local_dir="datas
 EOF
 ```
 
-See [`dataset/README.md`](dataset/README.md) for the full construction pipeline.
+See [`dataset/DATASET.md`](dataset/DATASET.md) for the full construction pipeline.
 
 ## Installation
 
@@ -135,10 +135,10 @@ The CHAINED dataset is derived from [MuSiQue](https://github.com/StonyBrookNLP/m
 ## Citation
 
 ```bibtex
-@article{lu2025streaming,
+@article{lu2026streaming,
   title={Streaming Hallucination Detection in Long Chain-of-Thought Reasoning},
   author={Lu, Haolang and Pan, Minghui and Li, Ripeng and Nan, Guoshun and Zhuang, Jialin and Zhao, Zijie and Sun, Zhongxiang and Wang, Kun and Liu, Yang},
   journal={arXiv preprint arXiv:2601.02170},
-  year={2025}
+  year={2026}
 }
 ```
