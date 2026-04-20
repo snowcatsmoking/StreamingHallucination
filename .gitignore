@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.uv/
+
+# Generated data (large files, not for version control)
+processed/
+features/
+models/
+results/
+
+# Dataset raw files (available on HuggingFace)
+dataset/data/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
