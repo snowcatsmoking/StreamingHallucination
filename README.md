@@ -126,6 +126,12 @@ python src/visualize.py \
     --output-dir results/viz
 ```
 
+## License
+
+The code in this repository is released under the [MIT License](LICENSE).
+
+The CHAINED dataset is derived from [MuSiQue](https://github.com/StonyBrookNLP/musique) (CC BY 4.0) and [BIG-Bench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard) (MIT). Accordingly, the dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use the dataset, please cite both this work and the original sources.
+
 ## Citation
 
 ```bibtex
